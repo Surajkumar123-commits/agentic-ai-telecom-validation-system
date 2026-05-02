@@ -82,6 +82,22 @@ http://127.0.0.1:8000/docs
 ✔ Generates structured Jira comments
 
 ---
+## 💼 Business Impact
+- Reduces manual validation effort across telecom platforms
+- Identifies defects before production deployment
+- Speeds up defect triage and ownership assignment
+
+## 🔮 Future Enhancements
+- Integrate with real Jira APIs
+- Add LLM-based root cause explanation
+- Build UI dashboard for monitoring
+
+## 📁 Project Structure
+api/ → FastAPI application
+src/agents/ → Validation, Defect, Jira agents
+data/ → Sample input datasets
+screenshots/ → README visuals
+
 
 ## ⚠️ Disclaimer
 
