@@ -93,11 +93,11 @@ http://127.0.0.1:8000/docs
 - Build UI dashboard for monitoring
 
 ## 📁 Project Structure
-api/ → FastAPI application
-src/agents/ → Validation, Defect, Jira agents
-data/ → Sample input datasets
-screenshots/ → README visuals
 
+- api/ → FastAPI application  
+- src/agents/ → Validation, Defect, Jira agents  
+- data/ → Sample input datasets  
+- screenshots/ → README visuals  
 
 ## ⚠️ Disclaimer
 
