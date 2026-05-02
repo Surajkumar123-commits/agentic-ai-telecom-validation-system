@@ -1,0 +1,3 @@
+sku_id,status,device_channel,web_enabled,upgrade_enabled,display_badge,price,activation_fee,discount_applied,discount_value,sort_order,new_addon,addon_name,changeset_id,changeset_status
+123456789012,Active,Metro Prepaid,Yes,Yes,Tuesday offer,499,50,Yes,100,1,Yes,5G Booster,CS-789,Staging Live
+987654321000,Active,Metro Prepaid,Yes,Yes,Tuesday offer,599,50,Yes,100,2,No,,CS-790,Staging Live

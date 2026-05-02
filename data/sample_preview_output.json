@@ -1,0 +1,20 @@
+[
+  {
+    "sku_id": "123456789012",
+    "visible_on_web": "Yes",
+    "visible_on_upgrade": "Yes",
+    "display_badge": "Tuesday offer",
+    "sort_order": 1,
+    "addon_visible": "Yes",
+    "addon_name": "5G Booster"
+  },
+  {
+    "sku_id": "987654321000",
+    "visible_on_web": "Yes",
+    "visible_on_upgrade": "Yes",
+    "display_badge": "Weekend offer",
+    "sort_order": 2,
+    "addon_visible": "No",
+    "addon_name": ""
+  }
+]
